@@ -13,7 +13,9 @@
 
 ## Essential Questions
 * What is the event loop? Why is it important?
-* Describe the difference between
+* Describe the difference between blocking and non-blocking code. Why is this important when programming for the browser?
++ What are some of the different types of events we might want to respond to when working with code?
++ How might we apply object-oriented principles and best-practices to programming for the browser? 
 
 ## Learning Assignments
 * **Video:**[What the Heck is The Event Loop Anyway? - Talk by Phillip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
