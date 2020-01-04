@@ -12,7 +12,6 @@
 * Why is it important to prevent the default action of a form?
 
 ## Learning Assignments
-* **Video:**
 * **Book:** [Eloquent JavaScript 2nd Edition Chapter 18: Forms](https://eloquentjavascript.net/2nd_edition/18_forms.html)
 * **Documentation:** [W3Schools - Form Validation](https://www.w3schools.com/js/js_validation.asp)
 * **Documentation:** [Mozilla - preventDefault](https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault)
