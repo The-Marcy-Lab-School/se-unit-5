@@ -47,6 +47,7 @@
     - b) change the color of the element to green
     - c) and update the text to the future tech career of your choosing
 
+```html
 <!DOCTYPE html>
 <html>
     <body>
@@ -57,6 +58,7 @@
     </script>
     </body>
 </html>
+```
 
 
 5. Write a function named `addLunch()` within the `script` tags in order to:
