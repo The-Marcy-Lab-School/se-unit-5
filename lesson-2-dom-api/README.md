@@ -1,23 +1,8 @@
 # Key Terms:
-- DOM
-- Tree
-- HTML Element
-- Node
-
-# Key Terms:
+- DOM API
 - DOM properties
 - DOM methods
-- Querying methods
-- Query selector methods
-_- Preview for Day 3: event listeners_
-
-
-# Essential Questions:
-1. What is DOM?
-2. Why is the DOM and knowing how to manipulate it important?
-3. Which sort of engineers would work with the DOM most often?
-4. How does the DOM look (Dev Tools-->Elements tab)?
-5. What is the connection between the DOM and Trees?
+- Manipulate the DOM
 
 # Essential Questions:
 5. What is the difference between DOM properties and DOM methods?
@@ -28,18 +13,6 @@ _- Preview for Day 3: event listeners_
 9. How can the content of HTML element be changed?
 10. How can style (CSS) of HTML be changed?
 11. How can elements be deleted?
-12. _Preview for Day 3: What are some common DOM event listeners?_
-
-# Learning Assignments:
-- Eloquent JavaScript (article): https://eloquentjavascript.net/14_dom.html
-    - Sections:
-        1. The Document Object Model
-        2. Document Structure
-        3. Trees
-        4. The Standard
-        5. Moving Through the Tree
-- MDN DOM Intro (documentation): https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
-- DOM Tree (article and interactive diagrams): https://javascript.info/dom-nodes
 
 # Learning Assignments:
 -  Eloquent JavaScript (article and exercises): https://eloquentjavascript.net/14_dom.html#h_jS5BEpmLY0
@@ -71,7 +44,4 @@ _- Preview for Day 3: event listeners_
 - Code Ninja (tutorial): https://youtu.be/wKBu_dEaF9E
 
 # Practice
-[Practice Set 5.1]()
-
-# Practice
-[Practice Set 5.2]()
+[Practice Set 5.2](lesson-2-dom-api/exercises)
