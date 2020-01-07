@@ -1,5 +1,8 @@
-1. What is one difference between a NodeList and an HTMLCollection?
-   _Both interfaces are collections of DOM nodes. They differ in the methods they provide and in the type of nodes they can contain. Also, we cannot run array methods such as forEach on a HTMLCollection._ 
+# Unit 5 Day 2 Solutions
+## The DOM API and editing
+
+1. Compare and contrast a NodeList and an HTMLCollection?
+   _Both interfaces are collections of DOM nodes. They differ in the methods they provide and in the type of nodes they can contain. Also, we can only run the forEach method on a NodeList. Finally, neither of these are actually arrays. So neither can use other array methods such as pop. push, shift, unshift, etc._ 
 
 2. Write the output of the console.log() statement. Briefly explain your reasoning for writing this output. 
     _"Jessie Woolley-Wilson" would be logged to the console. This text is the innerText of the `<h2>` element that has an idea of "ceo"_

@@ -1,3 +1,6 @@
+# Unit 5 Day 1 Notes
+## Intro to the DOM and Trees
+
 # Key Terms:
 - Document Object Model
 - Tree
