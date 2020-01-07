@@ -4,9 +4,9 @@
 1. Write a brief description of what the DOM is.
 
 2. Draw a diagram of the DOM tree for the `sample.html` file below.
-**`sample.html`**
 
 ```html
+<!–– sample.js ––>
 <html>
     <head>
         <h1>Hello</h1>
