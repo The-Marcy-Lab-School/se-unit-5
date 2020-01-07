@@ -76,6 +76,7 @@ console.log(content)
 **Before:**
 - IHop
 - Drive Change
+
 Add a lunch option above.
 
 **After:**
