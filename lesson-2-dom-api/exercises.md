@@ -5,7 +5,9 @@
 
 
 2. Write the output of the console.log() statement. Briefly explain your reasoning for writing this output.
-**example.html**
+
+```html
+<-- example.html -->
 <html>
     <head>
         <h1 id="company">Dream Box</h1>
@@ -16,7 +18,7 @@
         <p id="chief-program-officer">Maya</p>
     </body>
 </html>
-
+```
 
 **example.js**
 `const element = getElementById("ceo");`
@@ -70,14 +72,14 @@
     - remove the instructions - "Add a lunch option above."
 
 **Before:**
-    -IHop
-    -Drive Change
-    Add a lunch option above.
+- IHop
+- Drive Change
+Add a lunch option above.
 
 **After:**
-    -IHop
-    -Drive Change
-    -Bagged Lunch
+- IHop
+- Drive Change
+- Bagged Lunch
     
 ```html
 <!DOCTYPE html>
