@@ -16,7 +16,7 @@
     </body>
 </html>
 
-3. Look at the DOM tree diagram (dom-tree-diagram.png), type out the html code that could match this diagram.
+3. Look at the DOM tree diagram ![dom-tree](https://github.com/The-Marcy-Lab-School/se-unit-5-DOM/blob/add-days-one-two/lesson-1-intro-to-dom/dom-tree-diagram.png), type out the html code that could match this diagram.
 
  
 4.  Save a screenshot of the website view after you complete the below changes.
