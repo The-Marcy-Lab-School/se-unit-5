@@ -26,4 +26,4 @@
 - DOM Tree (article and interactive diagrams): https://javascript.info/dom-nodes
 
 # Practice
-[Practice Set 5.1](lesson-1-intro-to-dom/exercise.md)
+[Practice Set 5.0](https://github.com/The-Marcy-Lab-School/se-unit-5-DOM/blob/add-days-one-two/lesson-1-intro-to-dom/exercises.md)
