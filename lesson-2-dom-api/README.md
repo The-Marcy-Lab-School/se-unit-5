@@ -65,4 +65,4 @@
     - [Exercises](https://eloquentjavascript.net/14_dom.html#h_TcUD2vzyMe)
 
 # Practice
-[Practice Set 5.1](https://github.com/The-Marcy-Lab-School/se-unit-5-DOM/blob/add-days-one-two/lesson-2-dom-api/exercises.mds)
+[Practice Set 5.1](https://github.com/The-Marcy-Lab-School/se-unit-5-DOM/blob/add-days-one-two/lesson-2-dom-api/exercises.md)
