@@ -20,10 +20,12 @@
 </html>
 ```
 
-**example.js**
-`const element = getElementById("ceo");`
-`const content = element.innerText()`
-`console.log(content)`
+```javascript
+//example.js
+const element = getElementById("ceo");
+const content = element.innerText()
+console.log(content)
+```
 
 
 3. Read the sample html code below. Describe what will happen when `myFunction()` is invoked.
