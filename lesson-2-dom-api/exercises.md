@@ -26,6 +26,7 @@
 
 3. Read the sample html code below. Describe what will happen when `myFunction()` is invoked.
 
+```html
 <!DOCTYPE html>
 <html>
     <body>
@@ -40,7 +41,7 @@
         </script>
     </body>
 </html>
-
+```
 
 4. Write a function named `changeText` within the `<script>` tags in order to:
     - a) get the element with the id of `career`
@@ -68,24 +69,22 @@
     - append the LI node to the list.
     - remove the instructions - "Add a lunch option above."
 
-	**Before:**
-
+**Before:**
     -IHop
     -Drive Change
-
     Add a lunch option above.
 
-    **After:**
+**After:**
     -IHop
     -Drive Change
     -Bagged Lunch
     
-
+```html
 <!DOCTYPE html>
 <html>
 <body>
 <div id="activity">
-	 <p id="instructions">Click the button to append an item to the end of the list</p>
+	 <p id="instructions">Add a lunch option above</p>
   <ul id="myList">
     <li>IHop</li>
     <li>Drive Change</li>
@@ -97,6 +96,6 @@
 </div>
 </body>
 </html>
-
+```
 
 6. **BONUS:** For more in depth practice with the DOM API, check out [these problem sets and solutions](https://www.w3resource.com/javascript-exercises/javascript-dom-exercises.php).
