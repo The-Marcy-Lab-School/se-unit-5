@@ -30,6 +30,7 @@
 
 # Learning Assignments:
 1. MDN DOM Manipulation (documentation):
+
 **Find Elements**
 - [Query Selectors](https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors)
 - [querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
@@ -46,6 +47,7 @@
 
 **Delete Elements**
 - [removeChild](https://developer.mozilla.org/en-US/docs/Web/API/Node/removeChild)
+    
     
 2. Code Ninja (tutorial): https://youtu.be/wKBu_dEaF9E
 
