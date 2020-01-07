@@ -6,6 +6,7 @@
 2. Draw a diagram of the DOM tree for the `sample.html` file below.
 **`sample.html`**
 
+```html
 <html>
     <head>
         <h1>Hello</h1>
@@ -15,6 +16,7 @@
         <p id=”chief-program-officer">”Maya”</p>
     </body>
 </html>
+```
 
 3. Look at the DOM tree diagram ![dom-tree](https://github.com/The-Marcy-Lab-School/se-unit-5-DOM/blob/add-days-one-two/lesson-1-intro-to-dom/dom-tree-diagram.png), type out the html code that could match this diagram.
 
