@@ -1,20 +1,19 @@
-# Unit 5 Day 1 Notes
-## Intro to the DOM and Trees
+# Unit 5 Lesson 0:  Intro to the DOM
 
-# Key Terms:
-- Document Object Model
-- Tree
-- HTML Element
-- Node
+## Key Terms
+* Document Object Model
+* tree
+* node
+* text node
+* element node
 
-# Essential Questions:
-1. What is DOM?
-2. Why is the DOM and knowing how to manipulate it important?
-3. Which sort of engineers would work with the DOM most often?
-4. How does the DOM look (Dev Tools-->Elements tab)?
-5. What is the connection between the DOM and Trees?
+## Essential Questions
+* What is the DOM and why must we learn to manipulate it?
+* Which sort of engineers would work with the DOM most often?
+* What tools can we use to visualize the DOM?
+* How does the _tree_ data structure allow us to visualize relationships between elements in the DOM?
 
-# Learning Assignments:
+## Learning Assignments
 - Eloquent JavaScript (article): https://eloquentjavascript.net/14_dom.html
     - Sections:
         1. The Document Object Model
@@ -25,5 +24,5 @@
 - MDN DOM Intro (documentation): https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
 - DOM Tree (article and interactive diagrams): https://javascript.info/dom-nodes
 
-# Practice
-[Practice Set 5.0](https://github.com/The-Marcy-Lab-School/se-unit-5-DOM/blob/add-days-one-two/lesson-1-intro-to-dom/exercises.md)
+## Practice
+[Practice Set 5.0](https://github.com/The-Marcy-Lab-School/se-unit-5/blob/master/lesson-0-intro-to-dom/practice/exercises.md)
