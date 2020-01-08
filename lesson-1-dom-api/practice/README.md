@@ -129,6 +129,7 @@
     ```
 
 **7. Write a JavaScript program to remove items from a dropdown list.**
+
         ```html
         <!DOCTYPE html>
         <html>
