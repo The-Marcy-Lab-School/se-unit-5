@@ -46,9 +46,9 @@
   ```
 
 **4. Write a function named `changeText` within the `<script>` tags in order to:**
-    - a) get the element with the id of `career`
-    - b) change the color of the element to green
-    - c) and update the text to the future tech career of your choosing
+    * get the element with the id of `career`
+    * change the color of the element to green
+    * and update the text to the future tech career of your choosing
 
   ```html
   <!DOCTYPE html>
@@ -65,22 +65,22 @@
 
 
 **5. Write a function named `addLunch()` within the `script` tags in order to:**
-    - create an `li` node
-    - create a text node with "Bagged Lunch" as a new lunch list option
-    - append the text node to the `li` node
-    - append the `li` node to the list.
-    - remove the instructions - "Add a lunch option above."
+  * create an `li` node
+  * create a text node with "Bagged Lunch" as a new lunch list option
+  * append the text node to the `li` node
+  * append the `li` node to the list.
+  * remove the instructions - "Add a lunch option above."
 
-      **Before:**
-      - IHop
-      - Drive Change
+  **Before:**
+  * IHop
+  * Drive Change
 
-      Add a lunch option above.
+  Add a lunch option above.
 
-      **After:**
-      - IHop
-      - Drive Change
-      - Bagged Lunch
+  **After:**
+  * IHop
+  * Drive Change
+  * Bagged Lunch
 
   ```html
   <!DOCTYPE html>
