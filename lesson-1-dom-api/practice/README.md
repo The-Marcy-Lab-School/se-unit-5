@@ -1,4 +1,4 @@
-# Unit 5 Day 2 Practice
+# Unit 5 Lesson 1 Practice
 ## The DOM API and editing
 
 **1. What is one difference between a NodeList and an HTMLCollection?**
