@@ -21,7 +21,7 @@
 
   ```javascript
   const element = getElementById("ceo");
-  const content = element.innerText()
+  const content = element.innerText
   console.log(content)
   ```
 

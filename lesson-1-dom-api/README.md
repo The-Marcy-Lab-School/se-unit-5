@@ -13,8 +13,9 @@
 - `node.nextSibling()`
 - `node.previousSibling()`
 - `node.childNodes()`
-- `node.innerHTML`
-- `remove()`
+- `element.innerHTML`
+- `HTMLElement.innerText`
+- `node.remove()`
 - `style`
 
 # Essential Questions:
