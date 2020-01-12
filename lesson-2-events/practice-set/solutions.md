@@ -3,6 +3,8 @@
 
 0. In the context of web programming, what is an event? What are some of the different types of events that might occur in a web application?
 
+**Suggested Answer** In web programming, an event is any external action which can trigger a response by our program. Broadcasting events allows us to respond when specific actions occur, rather than constantly monitoring the state of certain inputs. For the web, this could be any user action such as scrolling, a mouse click, a key press, or a form submission.
+
 1. In your own words, describe the event loop. How does it work?
 
 2. Write a function so that, when the user clicks anywhere on the page, the x and y position of the mouse are logged to the console.
