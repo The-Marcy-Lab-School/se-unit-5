@@ -12,7 +12,7 @@
 * Why is it important to prevent the default action of a form?
 
 ## Learning Assignments
-* **Book:** [Eloquent JavaScript 2nd Edition Chapter 18: Forms](https://eloquentjavascript.net/2nd_edition/18_forms.html)
+* **Book:** [Eloquent JavaScript: Forms](https://eloquentjavascript.net/18_http.html)
 * **Documentation:** [W3Schools - Form Validation](https://www.w3schools.com/js/js_validation.asp)
 * **Documentation:** [Mozilla - preventDefault](https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault)
 * **Tutorial:** [Khan Academy: DOM Events (Everything After "Cat Stache")](https://www.khanacademy.org/computing/computer-programming/html-css-js/html-js-dom-events#html-js-dom-events)
