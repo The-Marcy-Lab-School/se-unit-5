@@ -7,7 +7,9 @@
 
 2. Write a function so that, when the user clicks anywhere on the page, the x and y position of the mouse are logged to the console.
 
-3. Write a page that displays a balloon (using the balloon emoji, 🎈). When you press the up arrow, it should inflate (grow) 10 percent, and when you press the down arrow, it should deflate (shrink) 10 percent.
+3. Create a webpage that displays a balloon (using the balloon emoji, 🎈). When you press the up arrow, it should inflate (grow) 10 percent, and when you press the down arrow, it should deflate (shrink) 10 percent. 
+
+To get started, create two files: `index.html` and `index.js` and include the appropriate `<script>` tag. Open your html file in a web browser to test your code.
 
 You can control the size of text (emoji are text) by setting the font-size CSS property (style.fontSize) on its parent element. Remember to include a unit in the value—for example, pixels (10px).
 
