@@ -53,6 +53,7 @@
 
 **3. Eloquent JavaScript (article and exercises): https://eloquentjavascript.net/14_dom.html#h_jS5BEpmLY0**
     - Sections:
+    
         1. Finding Elements
         2. Changing the Document
         3. Creating Nodes
@@ -62,6 +63,7 @@
         7. Cascading Styles (_this will be review_)
         8. Query Selectors
         9. Positioning and Animating
+        
     - [Exercises](https://eloquentjavascript.net/14_dom.html#h_TcUD2vzyMe)
 
 # Practice
