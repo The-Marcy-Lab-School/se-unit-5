@@ -52,8 +52,8 @@
 **2. Code Ninja (tutorial): https://youtu.be/wKBu_dEaF9E**
 
 **3. Eloquent JavaScript (article and exercises): https://eloquentjavascript.net/14_dom.html#h_jS5BEpmLY0**
-    - Sections:
-    
+
+- Sections:    
         1. Finding Elements
         2. Changing the Document
         3. Creating Nodes
@@ -64,7 +64,7 @@
         8. Query Selectors
         9. Positioning and Animating
         
-    - [Exercises](https://eloquentjavascript.net/14_dom.html#h_TcUD2vzyMe)
+- [Exercises](https://eloquentjavascript.net/14_dom.html#h_TcUD2vzyMe)
 
 # Practice
-[Practice Set 5.2](https://github.com/The-Marcy-Lab-School/se-unit-5/tree/master/lesson-1-dom-api/practice)
+[Practice Set 5.1](https://github.com/The-Marcy-Lab-School/se-unit-5/tree/master/lesson-1-dom-api/practice)
