@@ -22,7 +22,7 @@
         4. The Standard
         5. Moving Through the Tree
 - MDN DOM Intro (documentation): https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
-- DOM Tree (article and interactive diagrams): https://javascript.info/dom-nodes
+- DOM Tree (article and interactive activity): https://javascript.info/dom-nodes
 
 ## Practice
-[Practice Set 5.0](https://github.com/The-Marcy-Lab-School/se-unit-5/blob/master/lesson-0-intro-to-dom/practice/exercises.md)
+[Practice Set 5.0](https://github.com/The-Marcy-Lab-School/se-unit-5/tree/master/lesson-0-intro-to-dom/practice)
