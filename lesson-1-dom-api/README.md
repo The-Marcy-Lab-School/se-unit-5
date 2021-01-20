@@ -54,6 +54,7 @@
 **3. Eloquent JavaScript (article and exercises): https://eloquentjavascript.net/14_dom.html#h_jS5BEpmLY0**
 
 - Sections:    
+
         1. Finding Elements
         2. Changing the Document
         3. Creating Nodes
