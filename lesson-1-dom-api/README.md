@@ -58,7 +58,7 @@
   - [createElement](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
 
   **Create New Elements**
-  - [appendChild](https://developer.mozilla.org/en-US/docs/Web/API/ParentNode/append)
+  - [appendChild](https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild)
   - [innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML)
 
   **Update Existing Elements**
