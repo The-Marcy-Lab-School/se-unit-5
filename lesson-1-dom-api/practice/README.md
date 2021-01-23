@@ -35,9 +35,9 @@
           <h2 class="example">A heading with class="example" </h2>
           <p class="example">A paragraph with class="example".</p> 
           <p>Click the button to add a background color to the first element in the document with class="example".</p>
-          <button onclick="changeColor()">Try it</button>
+          <button onclick="myFunction()">Try it</button>
           <script>
-          const changeText = () => {
+          const myFunction = () => {
           document.querySelector(".example").style.backgroundColor = "red";
           }
           </script>
