@@ -17,7 +17,7 @@
   const changeText = () => {
       const futureCareer = "software engineer";
       var x = document.getElementById("demo");
-      x.style.color = "red";
+      x.style.color = "green";
       x.innerHTML = futureCareer;
   }
   ```
