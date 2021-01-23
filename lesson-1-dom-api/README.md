@@ -50,13 +50,14 @@
 **3.** **MDN Documentation:**
 
   **Find Elements**
-  - [Query Selectors](https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors)
   - [querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
+  - [querySeletorAll](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
   - [getElementById](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
   - [getElementsByClassName](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByClassName)
-  - [createElement](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
+  = [getElementsByTageName](https://developer.mozilla.org/en-US/docs/Web/API/Element/getElementsByTagName)
 
   **Create New Elements**
+  - [createElement](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
   - [appendChild](https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild)
   - [innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML)
 
