@@ -18,5 +18,3 @@ We can then process the information from forms in order to dynamically determine
     <input type="submit" name="submitButton" value="Sign up!"/>
   </form>
 ```
-
-2 - 4. Still needs to be done
