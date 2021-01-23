@@ -32,7 +32,7 @@ Valid operators should be as follows:
 
 Display the result of the calculation in the paragraph tag. If the user enters an invalid operator, display an error message letting them know to change the operator.
 
-5. Build a simple ToDo-List application. The app will not have persistence - i.e., each time the user refreshes, they will get a blank list. The application should include a form for the user to enter a new todo. Submitting the form should add the list item to an unordered list on the page. See below for a basic example.
+5. Build a simple ToDo-List application. The app will not have persistence - i.e., each time the user refreshes, they will get a blank list. The application should include a form for the user to enter a new todo. Submitting the form should add the list item to an unordered list on the page. See [here](http://expalmer.github.io/todo-list-vanilla-js/) for a basic example.
 
 **BONUS**: Use the Object-Oriented domain model you created in Unit 4 to keep track of the list of ToDos.
 
