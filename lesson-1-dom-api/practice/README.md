@@ -46,7 +46,7 @@
   ```
 
 **4. Write a function named `changeText` within the `<script>` tags in order to:**
-    * get the element with the id of `career`
+    * get the element with the id of `demo`
     * change the color of the element to green
     * and update the text to the future tech career of your choosing
 
