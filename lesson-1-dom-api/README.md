@@ -29,7 +29,9 @@
 
 # Learning Assignments:
 
-**1. Eloquent JavaScript (article and exercises): https://eloquentjavascript.net/14_dom.html#h_jS5BEpmLY0**
+**1. Code Ninja (tutorial video): https://youtu.be/wKBu_dEaF9E**
+
+**2. Eloquent JavaScript (article and exercises): https://eloquentjavascript.net/14_dom.html#h_jS5BEpmLY0**
 
 - Sections:    
 
@@ -45,8 +47,6 @@
         
 - [Exercises](https://eloquentjavascript.net/14_dom.html#h_TcUD2vzyMe)
   
-**2. Code Ninja (tutorial): https://youtu.be/wKBu_dEaF9E**
-
 **3.** **MDN Documentation:**
 
   **Find Elements**
