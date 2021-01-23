@@ -71,6 +71,7 @@
   * create a text node with "Bagged Lunch" as a new lunch list option
   * append the text node to the `li` node
   * append the `li` node to the unordered list.
+  * remove the "Add a lunch option above" paragraph.
 
   ```html
   <!DOCTYPE html>
