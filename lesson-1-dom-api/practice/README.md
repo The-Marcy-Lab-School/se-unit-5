@@ -46,6 +46,7 @@
   ```
 
 **4. Write a function named `changeText` within the `<script>` tags in order to:**
+
     * get the element with the id of `demo`
     * change the color of the element to green
     * and update the text to the future tech career of your choosing
@@ -65,6 +66,7 @@
 
 
 **5. Write a function named `addLunch()` within the `script` tags in order to:**
+
   * create an `li` node
   * create a text node with "Bagged Lunch" as a new lunch list option
   * append the text node to the `li` node
@@ -72,12 +74,14 @@
   * remove the instructions - "Add a lunch option above."
 
   **Before:**
+  
   * IHop
   * Drive Change
 
   Add a lunch option above.
 
   **After:**
+  
   * IHop
   * Drive Change
   * Bagged Lunch
