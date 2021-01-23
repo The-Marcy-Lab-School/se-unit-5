@@ -14,15 +14,15 @@
 * How does the _tree_ data structure allow us to visualize relationships between elements in the DOM?
 
 ## Learning Assignments
-1. DOM Tree (article and interactive activity): https://javascript.info/dom-nodes
-2. Eloquent JavaScript (article): https://eloquentjavascript.net/14_dom.html
+1. [DOM Tree](https://javascript.info/dom-nodes) (article and interactive activity) 
+2. [Eloquent JavaScript](https://eloquentjavascript.net/14_dom.html): 
     - Sections:
         1. The Document Object Model
         2. Document Structure
         3. Trees
         4. The Standard
         5. Moving Through the Tree
-3. MDN DOM Intro (documentation): https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
+3. [MDN DOM Intro](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) (documentation)
 
 ## Practice
 [Practice Set 5.0](https://github.com/The-Marcy-Lab-School/se-unit-5/tree/master/lesson-0-intro-to-dom/practice)
