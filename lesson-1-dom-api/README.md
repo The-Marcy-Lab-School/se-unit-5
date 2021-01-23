@@ -54,7 +54,7 @@
   - [querySeletorAll](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
   - [getElementById](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
   - [getElementsByClassName](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByClassName)
-  = [getElementsByTageName](https://developer.mozilla.org/en-US/docs/Web/API/Element/getElementsByTagName)
+  - [getElementsByTageName](https://developer.mozilla.org/en-US/docs/Web/API/Element/getElementsByTagName)
 
   **Create New Elements**
   - [createElement](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
