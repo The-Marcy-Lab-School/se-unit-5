@@ -70,21 +70,7 @@
   * create an `li` node
   * create a text node with "Bagged Lunch" as a new lunch list option
   * append the text node to the `li` node
-  * append the `li` node to the list.
-  * remove the instructions - "Add a lunch option above."
-
-  **Before:**
-  
-  * IHop
-  * Drive Change
-
-  Add a lunch option above.
-
-  **After:**
-  
-  * IHop
-  * Drive Change
-  * Bagged Lunch
+  * append the `li` node to the unordered list.
 
   ```html
   <!DOCTYPE html>
