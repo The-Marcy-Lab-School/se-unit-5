@@ -1,5 +1,4 @@
-# Unit 5 Day 2 Notes
-## The DOM API and editing
+# The DOM API and editing
 
 # Key Methods:
 - `document.querySelector()`
