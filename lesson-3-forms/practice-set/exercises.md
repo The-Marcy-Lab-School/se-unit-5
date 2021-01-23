@@ -3,7 +3,7 @@
 
 0. When building web applications, why are forms important? Why do we need to use them?
 
-1. In HTML, write a form for a user sign up page. We should take the users first name, last name, birth year, password, a password confirmation, and a short bio.
+1. In HTML, write a form for a user sign up page. We should take the users first name, last name, birth year, password, a password confirmation, a short bio, and a submit button.
 
 2. For the form above, what are some of the types of validations that you would want to include on the form inputs using JavaScript?
 
