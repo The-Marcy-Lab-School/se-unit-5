@@ -16,4 +16,8 @@ Some notes to help you as you work through the prompt.
 
 ## Bonus
 
-In the real Wheel of Foturne, players can guess as many words as they like
+In the real Wheel of Foturne, players can guess as many words as they like during a ten second window. Update your app to:
+
+1. Display a ten second countdown
+2. Allow the user to guess during the countdown. If the win, the countdown should stop and they should be alerted that they won.
+3. If the timer reaches zero, let them know that they did not win. 
