@@ -14,7 +14,6 @@
 + How might we apply object-oriented principles and best-practices to programming for the browser? 
 
 ## Learning Assignments
-* **Tutorial:** JavaScript and the DOM ([**Responding to User Interaction Section**](https://teamtreehouse.com/library/what-is-an-event))
 * **Book:** Eloquent JavaScript: Chapter 15 ([Handling Events](https://eloquentjavascript.net/15_event.html) )
 * **Tutorial:** (Optional) [Khan Academy: DOM Events (Through "Cat Stache")](https://www.khanacademy.org/computing/computer-programming/html-css-js/html-js-dom-events#html-js-dom-events)
 
