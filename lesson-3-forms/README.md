@@ -1,4 +1,4 @@
-# Unit 5 Lesson 3: Forms
+# Lesson 3: Forms
 
 ## Key Terms
 * form input
@@ -19,4 +19,4 @@
 
 
 ## Practice
-* [Practice Set 5.3](https://github.com/The-Marcy-Lab-School/se-unit-5-DOM/blob/master/lesson-3-forms/practice-set/exercises.md)
+* [Practice](./practice)

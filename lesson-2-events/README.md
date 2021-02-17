@@ -1,4 +1,4 @@
-# Unit 5 Lesson 2: Events
+# Lesson 2: Events
 
 ## Key Terms
 * event
@@ -19,4 +19,4 @@
 
 
 ## Practice
-* [Practice Set 5.2](https://github.com/The-Marcy-Lab-School/se-unit-5-DOM/blob/master/lesson-2-events/practice-set/exercises.md)
+* [Practice](./practice)

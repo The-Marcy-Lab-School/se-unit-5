@@ -1,4 +1,4 @@
-# The DOM API and editing
+# Leson 1: The DOM API and editing
 
 # Key Methods:
 - `document.querySelector()`
@@ -69,4 +69,4 @@
   
 
 # Practice
-[Practice Set 5.1](https://github.com/The-Marcy-Lab-School/se-unit-5/tree/master/lesson-1-dom-api/practice)
+[Practice](./practice)

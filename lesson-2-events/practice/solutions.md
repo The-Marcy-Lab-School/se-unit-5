@@ -1,4 +1,3 @@
-# Unit 5 Lesson 2 Practice
 ## Events and the Event Loop
 
 0. In the context of web programming, what is an event? What are some of the different types of events that might occur in a web application?

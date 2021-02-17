@@ -1,4 +1,3 @@
-# Unit 5 Day 2 Solutions
 ## The DOM API and editing
 
 1. Compare and contrast a NodeList and an HTMLCollection?

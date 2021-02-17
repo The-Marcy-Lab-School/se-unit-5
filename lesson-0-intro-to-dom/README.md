@@ -1,4 +1,4 @@
-# Unit 5 Lesson 0:  Intro to the DOM
+# Lesson 0:  Intro to the DOM
 
 ## Key Terms
 * Document Object Model
@@ -25,4 +25,4 @@
 3. [MDN DOM Intro](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) (documentation)
 
 ## Practice
-[Practice Set 5.0](https://github.com/The-Marcy-Lab-School/se-unit-5/tree/master/lesson-0-intro-to-dom/practice)
+[Practice](./practice)
