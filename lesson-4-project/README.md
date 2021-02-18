@@ -21,3 +21,10 @@ In the real Wheel of Foturne, players can guess as many words as they like durin
 1. Display a ten second countdown
 2. Allow the user to guess during the countdown. If the win, the countdown should stop and they should be alerted that they won.
 3. If the timer reaches zero, let them know that they did not win. 
+
+
+## Problem Set
+[Problem Set 5.0](https://github.com/The-Marcy-Lab-School/problem-set-5_0/)
+
+## Challenge Assignment
+[Tic Tac Toe](https://github.com/The-Marcy-Lab-School/tic-tac-toe-lab)

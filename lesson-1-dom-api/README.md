@@ -31,7 +31,10 @@
 
 1. [Modern JavaScript Tutorial](https://youtu.be/wKBu_dEaF9E) by Code Ninja (tutorial video)
 
-2. [Eloquent JavaScript](https://eloquentjavascript.net/14_dom.html#h_jS5BEpmLY0) (book and exercises):
+2. [Building Interactive JavaScript Websites](https://www.codecademy.com/learn/build-interactive-websites) on Codecademy
+    * JavaScript Interactive Websites section
+
+3. [Eloquent JavaScript](https://eloquentjavascript.net/14_dom.html#h_jS5BEpmLY0) (book and exercises):
 
 - Sections:    
 
@@ -47,7 +50,7 @@
         
 - [Exercises](https://eloquentjavascript.net/14_dom.html#h_TcUD2vzyMe)
   
-3. MDN Documentation:
+4. MDN Documentation:
 
   **Find Elements**
   - [querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
@@ -70,3 +73,6 @@
 
 # Practice
 [Practice](./practice)
+
+## Lab Assignment
+[Sports Page](https://github.com/The-Marcy-Lab-School/js-dom-api-lab)

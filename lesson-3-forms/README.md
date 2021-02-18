@@ -20,3 +20,6 @@
 
 ## Practice
 * [Practice](./practice)
+
+## Lab Assignment
+[JS Events](https://github.com/The-Marcy-Lab-School/js-fun-with-events-lab)
