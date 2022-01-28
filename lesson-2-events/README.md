@@ -22,6 +22,3 @@
 
 ## Practice
 * [Practice](./practice)
-
-## Lab Assignment
-[My First Video Game](https://github.com/The-Marcy-Lab-School/js-video-game-lab)
