@@ -73,6 +73,3 @@
 
 # Practice
 [Practice](./practice)
-
-## Lab Assignment
-[Sports Page](https://github.com/The-Marcy-Lab-School/js-dom-api-lab)
