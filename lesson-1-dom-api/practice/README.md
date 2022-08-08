@@ -68,14 +68,14 @@
   * create an `li` node
   * this `li` should have text of "Bagged Lunch"
   * append the `li` node to the unordered list.
-  * remove the "Add a lunch option above" paragraph.
+  * remove the "Add a lunch option" paragraph.
 
   ```html
   <!DOCTYPE html>
   <html>
     <body>
       <div id="activity">
-               <p id="instructions">Add a lunch option above</p>
+               <p id="instructions">Add a lunch option</p>
         <ul id="myList">
           <li>IHop</li>
           <li>Drive Change</li>
