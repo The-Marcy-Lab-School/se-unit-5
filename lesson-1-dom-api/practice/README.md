@@ -112,30 +112,7 @@
   </html>
   ```
 
-**7. Write a JavaScript function `removeColor` to remove items from a dropdown list.**
-
-  ```html
-  <!DOCTYPE html>
-  <html>
-    <head>
-      <meta charset=utf-8 />
-      <title>Remove items from a dropdown list</title>
-    </head>
-    <body>
-      <form>
-        <select id="colorSelect">
-          <option>Red</option>
-          <option>Green</option>
-          <option>White</option>
-          <option>Black</option>
-        </select>
-      </form>
-      <script src="script.js"></script>
-    </body>
-  </html>
-  ```
-
-**8. Write a JavaScript program to display a random image from the following list.**
+**7. Write a JavaScript program to display a random image from the following list.**
 
   * "http://farm4.staticflickr.com/3691/11268502654_f28f05966c_m.jpg", width: "240", height: "160"
   * "http://farm1.staticflickr.com/33/45336904_1aef569b30_n.jpg", width: "320", height: "195"
