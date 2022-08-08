@@ -13,90 +13,53 @@
 
 4. 
   ```javascript
-  const changeText = () => {
-      const futureCareer = "software engineer";
-      var x = document.getElementById("demo");
-      x.style.color = "green";
-      x.innerHTML = futureCareer;
-  }
+const changeText = () => {
+  const element = document.getElementById("demo")
+  element.style.color = "green"
+  element.innerText = "Engineer"
+}
   ```
 
 
 5. 
   ```javascript
-  const addLunch = () => {
-      let node = document.createElement("li");
-      let textnode = document.createTextNode("Bagged Lunch");
-      node.appendChild(textnode);
-      document.getElementById("myList").appendChild(node);
-
-      let p = document.getElementById("instructions");
-      document.getElementById("activity").removeChild(p);
-  }
+const addLunch = () => {
+  const li = document.createElement("li")
+  li.innerText = "Bagged Lunch"
+  document.querySelector("ul").appendChild(li)
+  const instructions = document.getElementById("instructions")
+  instructions.remove()
+}
   ```
 
 6. 
   ```javascript
-  function insert_Row() {
-    const x = document.getElementById('sampleTable').insertRow(0);
-    const y = x.insertCell(0);
-    const z = x.insertCell(1);
-    y.innerHTML="New Cell1";
-    z.innerHTML="New Cell2";
-  }
+const addRow = (text1, text2) => {
+  const row = document.createElement("tr")
+  const td1 = document.createElement("td")
+  const td2 = document.createElement("td")
+  td1.innerText = text1 
+  td2.innerText = text2 
+  row.append(td1, td2)
+  document.querySelector("table").appendChild(row)
+}
   ```
+
 
 7. 
   ```javascript
-  function removecolor() {
-    const x = document.getElementById("colorSelect");
-    x.remove(x.selectedIndex);
-  }
-  ```
-
-8. 
-  ```javascript
-  function display_random_image() {
-      const theImages = [{
-          src: "http://farm4.staticflickr.com/3691/11268502654_f28f05966c_m.jpg",
-          width: "240",
-          height: "160"
-      }, {
-          src: "http://farm1.staticflickr.com/33/45336904_1aef569b30_n.jpg",
-          width: "320",
-          height: "195"
-      }, {
-          src: "http://farm6.staticflickr.com/5211/5384592886_80a512e2c9.jpg",
-          width: "500",
-          height: "343"
-      }];
-      
-      const preBuffer = [];
-      for (var i = 0, j = theImages.length; i < j; i++) {
-          preBuffer[i] = new Image();
-          preBuffer[i].src = theImages[i].src;
-          preBuffer[i].width = theImages[i].width;
-          preBuffer[i].height = theImages[i].height;
-      }
-     
-    // create random image number
-    function getRandomImg(min,max) {
-      imageNum = Math.floor(Math.random() * (max - min + 1)) + min;
-      return preBuffer[imageNum];
-    }  
-
-  // 0 is first image,   preBuffer.length - 1) is  last image
-    
-    const newImage = getRandomImg(0, preBuffer.length - 1);
-     
-    // remove the previous images
-    const images = document.getElementsByTagName('img');
-    const l = images.length;
-    for (var p = 0; p < l; p++) {
-        images[0].parentNode.removeChild(images[0]);
-    }
-
-    // display the image  
-    document.body.appendChild(newImage);
-  }
+const randomImage = () => {
+  let imageList = [
+    {url: "http://farm4.staticflickr.com/3691/11268502654_f28f05966c_m.jpg", width: "240", height: "160"},
+    {url: "http://farm1.staticflickr.com/33/45336904_1aef569b30_n.jpg", width: "320", height: "195"},
+    {url: "http://farm6.staticflickr.com/5211/5384592886_80a512e2c9.jpg", width: "500", height: "343"}
+  ]
+  let image = document.createElement('img')
+  let randomIndex = Math.floor(Math.random() * 3)
+  image.src = imageList[randomIndex].url
+  image.style.width = imageList[randomIndex].width
+  image.style.height = imageList[randomIndex].height
+  document.body.appendChild(image)
+}
+```
     
