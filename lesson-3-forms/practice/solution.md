@@ -9,14 +9,17 @@
 **Suggested Answer**
 
 ```html
-<form class="" action="index.html" method="post">
-  <input type="text" name="first_name" value="">
-  <input type="text" name="last_name" value="">
-  <input type="number" name="birth_year" value="">
-  <input type="password" name="password" value="">
-  <input type="password" name="password_confirmation" value="">
-  <textarea name="bio" rows="8" cols="80"></textarea>
-</form>
+    <form>
+      <input type="text" placeholder="First Name" name="first_name" value="">
+      <input type="text" placeholder="Last Name" name="last_name" value="">
+      <input type="number" placeholder="Birth Year" name="birth_year" value="">
+      <input type="password" placeholder="Password" name="password" value="">
+      <input type="password" placeholder="Password Confirmation" name="password_confirmation" value="">
+      <textarea name="bio" placeholder="Bio" rows="8" cols="80"></textarea>
+      <input type="submit" value="Submit">
+    </form>
+    
+    <p id="error"></p>
 ```
 
 2. For the form above, what are some of the types of validations that you would want to include on the form inputs using JavaScript?
