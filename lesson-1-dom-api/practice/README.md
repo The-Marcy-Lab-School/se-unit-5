@@ -66,8 +66,7 @@
 **5. Write a function named `addLunch` in order to:**
 
   * create an `li` node
-  * create a text node with "Bagged Lunch" as a new lunch list option
-  * append the text node to the `li` node
+  * this `li` should have text of "Bagged Lunch"
   * append the `li` node to the unordered list.
   * remove the "Add a lunch option above" paragraph.
 
