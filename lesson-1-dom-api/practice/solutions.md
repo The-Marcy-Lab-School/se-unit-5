@@ -14,9 +14,9 @@
 4. 
   ```javascript
 const changeText = () => {
-  const element = document.getElementById("demo")
-  element.style.color = "green"
-  element.innerText = "Engineer"
+     const element = document.getElementById("demo")
+     element.style.color = "green"
+     element.innerText = "Engineer"
 }
   ```
 
@@ -24,23 +24,23 @@ const changeText = () => {
 5. 
   ```javascript
 const addLunch = () => {
-  const li = document.createElement("li")
-  li.innerText = "Bagged Lunch"
-  document.querySelector("ul").appendChild(li)
-  const instructions = document.getElementById("instructions")
-  instructions.remove()
+     const li = document.createElement("li")
+     li.innerText = "Bagged Lunch"
+     document.querySelector("ul").appendChild(li)
+     const instructions = document.getElementById("instructions")
+     instructions.remove()
 }
   ```
 
 6. 
   ```javascript
 const addRow = (text1, text2) => {
-  const row = document.createElement("tr")
-  const td1 = document.createElement("td")
-  const td2 = document.createElement("td")
-  td1.innerText = text1 
-  td2.innerText = text2 
-  row.append(td1, td2)
+     const row = document.createElement("tr")
+     const td1 = document.createElement("td")
+     const td2 = document.createElement("td")
+     td1.innerText = text1 
+     td2.innerText = text2 
+     row.append(td1, td2)
   document.querySelector("table").appendChild(row)
 }
   ```
@@ -49,17 +49,17 @@ const addRow = (text1, text2) => {
 7. 
   ```javascript
 const randomImage = () => {
-  let imageList = [
-    {url: "http://farm4.staticflickr.com/3691/11268502654_f28f05966c_m.jpg", width: "240", height: "160"},
-    {url: "http://farm1.staticflickr.com/33/45336904_1aef569b30_n.jpg", width: "320", height: "195"},
-    {url: "http://farm6.staticflickr.com/5211/5384592886_80a512e2c9.jpg", width: "500", height: "343"}
-  ]
-  let image = document.createElement('img')
-  let randomIndex = Math.floor(Math.random() * 3)
-  image.src = imageList[randomIndex].url
-  image.style.width = imageList[randomIndex].width
-  image.style.height = imageList[randomIndex].height
-  document.body.appendChild(image)
+     let imageList = [
+       {url: "http://farm4.staticflickr.com/3691/11268502654_f28f05966c_m.jpg", width: "240", height: "160"},
+       {url: "http://farm1.staticflickr.com/33/45336904_1aef569b30_n.jpg", width: "320", height: "195"},
+       {url: "http://farm6.staticflickr.com/5211/5384592886_80a512e2c9.jpg", width: "500", height: "343"}
+     ]
+     let image = document.createElement('img')
+     let randomIndex = Math.floor(Math.random() * 3)
+     image.src = imageList[randomIndex].url
+     image.style.width = imageList[randomIndex].width
+     image.style.height = imageList[randomIndex].height
+     document.body.appendChild(image)
 }
 ```
     
