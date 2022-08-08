@@ -11,11 +11,11 @@
       <head>
           <h1 id="company">Dream Box</h1>
           <h2 id="ceo">Jessie Woolley-Wilson</h2>
-          <script src="script.js"></script>
       <head>
       <body>
           <p id="purpose"> DreamBox Learning is an online software provider that focuses on mathematics education.</p>
           <p id="chief-program-officer">Maya</p>
+          <script src="script.js"></script>
       </body>
   </html>
   ```
@@ -35,6 +35,7 @@
       <body>
           <h2 class="example">A heading with class="example" </h2>
           <p class="example">A paragraph with class="example".</p> 
+          <script src="script.js"></script>
       </body>
   </html>
   ```
@@ -56,6 +57,7 @@
   <html>
       <body>
           <p id="demo">This is a demo paragraph.</p>
+          <script src="script.js"></script>
       </body>
   </html>
   ```
@@ -80,6 +82,7 @@
           <li>Drive Change</li>
         </ul>
       </div>
+      <script src="script.js"></script>
     </body>
   </html>
   ```
@@ -105,6 +108,7 @@
         </tr>
       </table>
       <br>
+      <script src="script.js"></script>
     </body>
   </html>
   ```
@@ -127,6 +131,7 @@
           <option>Black</option>
         </select>
       </form>
+      <script src="script.js"></script>
     </body>
   </html>
   ```
