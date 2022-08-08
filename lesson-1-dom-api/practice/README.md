@@ -11,6 +11,7 @@
       <head>
           <h1 id="company">Dream Box</h1>
           <h2 id="ceo">Jessie Woolley-Wilson</h2>
+          <script src="script.js"></script>
       <head>
       <body>
           <p id="purpose"> DreamBox Learning is an online software provider that focuses on mathematics education.</p>
@@ -34,18 +35,17 @@
       <body>
           <h2 class="example">A heading with class="example" </h2>
           <p class="example">A paragraph with class="example".</p> 
-          <p>Click the button to add a background color to the first element in the document with class="example".</p>
-          <button onclick="myFunction()">Try it</button>
-          <script>
-          const myFunction = () => {
-          document.querySelector(".example").style.backgroundColor = "red";
-          }
-          </script>
       </body>
   </html>
   ```
+  
+  ```javascript
+  const myFunction = () => {
+      document.querySelector(".example").style.backgroundColor = "red";
+  }
+  ```
 
-**4. Write a function named `changeText` within the `<script>` tags in order to:**
+**4. Write a function named `changeText` in order to:**
 
     * get the element with the id of `demo`
     * change the color of the element to green
@@ -55,17 +55,13 @@
   <!DOCTYPE html>
   <html>
       <body>
-      <p id="demo">Click this button to change the color and text of this paragraph.</p>
-      <button onclick="changeText()">Try it</button>
-      <script>
-      //write your changeText() code here
-      </script>
+          <p id="demo">This is a demo paragraph.</p>
       </body>
   </html>
   ```
 
 
-**5. Write a function named `addLunch()` within the `script` tags in order to:**
+**5. Write a function named `addLunch` in order to:**
 
   * create an `li` node
   * create a text node with "Bagged Lunch" as a new lunch list option
@@ -83,10 +79,6 @@
           <li>IHop</li>
           <li>Drive Change</li>
         </ul>
-        <button onclick="addLunch()">Try it</button>
-        <script>
-        //write your addLunch() code here
-        </script>
       </div>
     </body>
   </html>
@@ -113,12 +105,11 @@
         </tr>
       </table>
       <br>
-      <input type="button" onclick="insert_Row()" value="Insert row"> 
     </body>
   </html>
   ```
 
-**7. Write a JavaScript program to remove items from a dropdown list.**
+**7. Write a JavaScript function `removeColor` to remove items from a dropdown list.**
 
   ```html
   <!DOCTYPE html>
@@ -135,7 +126,6 @@
           <option>White</option>
           <option>Black</option>
         </select>
-        <input type="button" onclick="removecolor()" value="Select and Remove">
       </form>
     </body>
   </html>
