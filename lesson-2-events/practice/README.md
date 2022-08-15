@@ -19,4 +19,4 @@ The key names of the arrow keys are "ArrowUp" and "ArrowDown". Make sure the key
 
 4. Add a feature to the application above where, if you blow up the balloon past a certain size, it explodes. In this case, exploding means that it is replaced with an 💥 emoji, and the event handler is removed (so that you can’t inflate or deflate the explosion).
 
-5. Write a function that detects when a user is typing a key. If the user is pressing a key, we should display that key value in the DOM. If nothing is being typed, we should clear the key that was pressed. 
+5. Write a function that detects when a user is typing a key. If the user is pressing down a key, we should display that key value in the DOM. If nothing is being pressed down, then we should clear from the DOM the key that was pressed. 
