@@ -75,7 +75,7 @@
   <html>
     <body>
       <div id="activity">
-               <p id="instructions">Add a lunch option</p>
+        <p id="instructions">Add a lunch option</p>
         <ul id="myList">
           <li>IHop</li>
           <li>Drive Change</li>
