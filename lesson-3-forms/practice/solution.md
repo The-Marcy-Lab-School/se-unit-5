@@ -60,7 +60,7 @@ passwordConfirmationInput.addEventListener('blur', function(e){
 4. Given the following HTML form, create a web-based calculator. A user should be able to enter two numbers, as well as an operator, and calculate the result of the expression.
 
 ```html
-<form class="calculator" action="index.html" method="post">
+<form class="calculator">
   <input type="number" name="first_number" value="">
   <input type="text" name="operator" value="">
   <input type="number" name="second_number" value="">
