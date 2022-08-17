@@ -41,7 +41,7 @@ const addRow = (text1, text2) => {
      td1.innerText = text1 
      td2.innerText = text2 
      row.append(td1, td2)
-  document.querySelector("table").appendChild(row)
+     document.querySelector("table").appendChild(row)
 }
   ```
 
