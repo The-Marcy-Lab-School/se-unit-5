@@ -34,19 +34,16 @@
 2. [Building Interactive JavaScript Websites](https://www.codecademy.com/learn/build-interactive-websites) on Codecademy
     * JavaScript Interactive Websites section
 
-3. [Eloquent JavaScript](https://eloquentjavascript.net/14_dom.html#h_jS5BEpmLY0) (book and exercises):
-
-- Sections:    
-
-        1. Finding Elements
-        2. Changing the Document
-        3. Creating Nodes
-        4. Attributes
-        5. Layouts
-        6. Styling (_this will be review_)
-        7. Cascading Styles (_this will be review_)
-        8. Query Selectors
-        9. Positioning and Animating
+3. [Eloquent JavaScript](https://eloquentjavascript.net/14_dom.html#h_jS5BEpmLY0) (book and exercises): 
+     1. Finding Elements
+     2. Changing the Document
+     3. Creating Nodes
+     4. Attributes
+     5. Layouts
+     6. Styling (_this will be review_)
+     7. Cascading Styles (_this will be review_)
+     8. Query Selectors
+     9. Positioning and Animating
         
 - [Exercises](https://eloquentjavascript.net/14_dom.html#h_TcUD2vzyMe)
   
