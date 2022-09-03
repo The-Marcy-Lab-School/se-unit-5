@@ -48,24 +48,20 @@
      - [Exercises](https://eloquentjavascript.net/14_dom.html#h_TcUD2vzyMe)
   
 4. MDN Documentation:
-
-  **Find Elements**
-  - [querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
-  - [querySeletorAll](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
-  - [getElementById](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
-  - [getElementsByClassName](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByClassName)
-  - [getElementsByTageName](https://developer.mozilla.org/en-US/docs/Web/API/Element/getElementsByTagName)
-
-  **Create New Elements**
-  - [createElement](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
-  - [appendChild](https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild)
-  - [innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML)
-
-  **Update Existing Elements**
-  - [attributes](https://developer.mozilla.org/en-US/docs/Web/API/Element/attributes)
-
-  **Delete Elements**
-  - [removeChild](https://developer.mozilla.org/en-US/docs/Web/API/Node/removeChild)
+     - **Find Elements**
+        - [querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
+        - [querySeletorAll](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
+        - [getElementById](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
+        - [getElementsByClassName](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByClassName)
+        - [getElementsByTageName](https://developer.mozilla.org/en-US/docs/Web/API/Element/getElementsByTagName)
+     -  **Create New Elements**
+        - [createElement](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
+        - [appendChild](https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild)
+        - [innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML)
+     - **Update Existing Elements**
+        - [attributes](https://developer.mozilla.org/en-US/docs/Web/API/Element/attributes)
+     - **Delete Elements**
+        - [removeChild](https://developer.mozilla.org/en-US/docs/Web/API/Node/removeChild)
   
 
 # Practice
